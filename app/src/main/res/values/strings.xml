@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JetLogin</string>
+
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot your password</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="login_hint">E-Mail / Phone Number</string>
+    <string name="password_visible_content_description">Hide password</string>
+    <string name="password_hidden_content_description">Show password</string>
+    <string name="dont_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="sign_up">Sign up!</string>
+</resources>
