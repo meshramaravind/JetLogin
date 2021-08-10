@@ -1,5 +1,5 @@
 # JetLogin
-Simple Login UI In Jetpack Compose Using Constraint Layout With Clean Architecture.
+Simple Login UI made In Jetpack Compose Using Constraint Layout With Clean Architecture.
 
 (Navigation Components,
 Actions with Animations, 
