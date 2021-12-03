@@ -24,8 +24,7 @@ Dark Theme & Light Theme)
 
 </p>
 
-# Dark Mode Too 😉
-Upcoming
+
 
 
 
